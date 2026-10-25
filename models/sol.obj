@@ -1,0 +1,13 @@
+# sol.obj : grand sol plat de 160 m x 160 m, centre en (0, 0, 0)
+# La texture est repetee 50 fois dans chaque direction (une herbe tous les ~3 m).
+v -80.0 0 -80.0
+v 80.0 0 -80.0
+v 80.0 0 80.0
+v -80.0 0 80.0
+vt 0 0
+vt 50.0 0
+vt 50.0 50.0
+vt 0 50.0
+vn 0 1 0
+f 1/1/1 4/4/1 3/3/1
+f 1/1/1 3/3/1 2/2/1
